@@ -26,3 +26,5 @@ In this research, we build upon past research in this area.
 - In {% cite naik2024largelanguagemodelscode %} we demonstrate the LLMs are capable of performing forward reconstruction, under certain circumstances.
 - In {% cite naik-etal-2026-pbebench %}, we propose an LLM reasoning benchmark based on forward reconstruction.
 - In {% cite naik2026reacomp %}, we demonstrate that LLM reasoning can be compiled into symbolic solvers which can solve forward reconstruction and related problems.
+
+[Comparative Reconstruction as an optimization problem](/assets/img/comparative-method.png)
