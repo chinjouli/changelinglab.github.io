@@ -27,4 +27,8 @@ In this research, we build upon past research in this area.
 - In {% cite naik-etal-2026-pbebench %}, we propose an LLM reasoning benchmark based on forward reconstruction.
 - In {% cite naik2026reacomp %}, we demonstrate that LLM reasoning can be compiled into symbolic solvers which can solve forward reconstruction and related problems.
 
+**Our current work involves using LLM Agents to solve the whole comparative method, a challenging discrete optimization problem.**
+
 [Comparative Reconstruction as an optimization problem](/assets/img/comparative-method.png)
+
+In this formulation, each part of the comparative method is represented as a function (which can be implemented in code). Agents work to optimize this code until they converge on and optimal solution.
