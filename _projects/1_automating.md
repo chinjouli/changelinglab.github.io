@@ -29,6 +29,6 @@ In this research, we build upon past research in this area.
 
 **Our current work involves using LLM Agents to solve the whole comparative method, a challenging discrete optimization problem.**
 
-<img src="/assets/img/comparative-method.png" alt="Comparative Reconstruction as an optimization problem" style="width:512px;">
+<img src="/assets/img/comparative-method.png" alt="Comparative Reconstruction as an optimization problem" style="width: 100%; height: auto; display: block;">
 
 In this formulation, each part of the comparative method is represented as a function (which can be implemented in code). Agents work to optimize this code until they converge on and optimal solution.
